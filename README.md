@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Abraham's GitHub stats](https://github-readme-stats.vercel.app/api?username=abraham-musa&theme=calm_icons=true)]
+[![Abraham's GitHub stats](https://github-readme-stats.vercel.app/api?username=abraham-musa&theme=dark_icons=true)]
 
 
 <!--
